@@ -71,3 +71,4 @@ python scripts/check.py
 This is an active portfolio project, not a finished commercial product. The API foundation, persistence layer, deterministic matching, validated LLM extraction boundary, OpenAI adapter, tests, and synthetic eval foundation are implemented.
 
 Next steps include exposing extraction through the API, expanding eval coverage, and adding measured model-quality results.
+
